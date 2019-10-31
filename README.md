@@ -16,6 +16,6 @@ Visit https://cinna.upc.edu/compare/ to learn more.
 
 The repository https://github.com/MartaBofillRoig/CompARE  contains the source files of the papers:
 
-	* Selection of composite binary endpoints in clinical trials. Biom J. 2018 Mar; 60(2):246-261. (https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201600229).
+- Selection of composite binary endpoints in clinical trials. Biom J. 2018 Mar; 60(2):246-261. (https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201600229).
 	
-	* Sample size derivation for composite binary endpoints. Stat in Med. DOI: 10.1002/sim.8092. (https://arxiv.org/abs/1807.01305).
+- Sample size derivation for composite binary endpoints. Stat in Med. DOI: 10.1002/sim.8092. (https://arxiv.org/abs/1807.01305).
