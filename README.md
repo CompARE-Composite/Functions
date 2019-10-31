@@ -7,3 +7,5 @@ Functions for web-app CompARE (https://cinna.upc.edu/compare/)
 - _**Functions_T2E**_ contains the functions referred to Time to Event composite endpoints.
 
 Visit https://cinna.upc.edu/compare/ to learn more.
+
+# Publications and further programming
