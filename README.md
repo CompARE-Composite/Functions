@@ -8,7 +8,7 @@ This repository contains the R functions for the shiny-app CompARE (https://cinn
 
 - _**Functions_Binary**_ contains the functions referred to Binary composite endpoints.
 - _**Functions_T2E**_ contains the functions referred to Time to Event composite endpoints.
-- _**BCG_CaseStudies**_ contains the functions to reproduce some figures showed in the app based on parametres from real studies.
+- _**BCG_CaseStudies**_ contains the code to reproduce the figures and tables showed in the app based on parametres from real studies.
 
 Visit https://cinna.upc.edu/compare/ to learn more.
 
