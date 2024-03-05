@@ -10,7 +10,7 @@ This repository contains the R functions for the shiny-app CompARE (https://www.
 - _**Functions_T2E**_ contains the functions referred to Time to Event composite endpoints.
 - _**BCG_CaseStudies**_ contains the code to reproduce the figures and tables showed in the app based on parametres from real studies.
 
-Visit https://cinna.upc.edu/compare/ to learn more.
+Visit https://www.grbio.eu/compare/ to learn more.
 
 ## Publications and related repositories
 
