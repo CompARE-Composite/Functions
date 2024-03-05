@@ -1,10 +1,8 @@
-# Functions
+# Functions `shiny` app
 
 ## Description
 
 This repository contains the R functions for the shiny-app CompARE (https://www.grbio.eu/compare/). CompARE is a web-platform inspired to provide help on issues relating to trials with composite endpoints.
-
-## CompARE shiny apps
 
 [**CompARE**](https://www.grbio.eu/compare/) comprises two different
 Shiny apps: one devoted to time-to-event endpoints, the other to binary
