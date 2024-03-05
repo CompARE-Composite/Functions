@@ -32,11 +32,11 @@ vignettes. These vignettes provide an introduction to CompARE:
     Tutorial](https://www.grbio.eu/compare/CompAREBinary/Help-Tutorial.html).
 
 
-## Contents
+## Contents of this repository
 
-- _**Functions_Binary**_ contains the functions referred to Binary composite endpoints.
-- _**Functions_T2E**_ contains the functions referred to Time to Event composite endpoints.
-- _**BCG_CaseStudies**_ contains the code to reproduce the figures and tables showed in the app based on parametres from real studies.
+- _**Functions_Binary**_ contains the functions referred to binary composite endpoints.
+- _**Functions_T2E**_ contains the functions referred to time-to-event composite endpoints.
+- _**BCG_CaseStudies**_ contains the code to reproduce the figures and tables shown in the app based on parameters from real studies.
 
 Visit https://www.grbio.eu/compare/ to learn more.
 
