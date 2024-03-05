@@ -1,4 +1,4 @@
-# Functions `shiny` app
+# Functions `shiny` app <img src="logo.png" align="right" alt="" width="250" />
 
 ## Description
 
